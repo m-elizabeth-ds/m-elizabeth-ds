@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elizabeth M
 
 
-## 🤖 Passion for Data Science, Machine Learning & AI
+## 🤖 Passion for Data Science| Machine Learning | AI | Front-end
 
 🔍 I'm deeply curious about how data can drive smart decisions and how intelligent systems 🤖 learn and evolve.  
 🧠 With a love for analytical thinking 💡, I’m excited by the impact of data science, machine learning, and AI in shaping the future 🌍.
