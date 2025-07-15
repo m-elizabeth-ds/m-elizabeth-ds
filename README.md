@@ -1,6 +1,16 @@
 # 👋 Hi, I'm Elizabeth M
 
-🎓 A passionate BCA student at **Somaiya School of Basic and Applied Science**, majoring in Computer Applications — with a strong interest in **Software Engineering** and building real-world applications.
+
+## 🤖 Passion for Data Science, Machine Learning & AI
+
+🔍 I'm deeply curious about how data can drive smart decisions and how intelligent systems 🤖 learn and evolve.  
+🧠 With a love for analytical thinking 💡, I’m excited by the impact of data science, machine learning, and AI in shaping the future 🌍.
+
+
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif"  width="500" alt="DSA GIF"/>
+</p>
 
 ---
 
