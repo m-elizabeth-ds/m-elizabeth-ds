@@ -7,7 +7,6 @@
 🧠 With a love for analytical thinking 💡, I’m excited by the impact of data science, machine learning, and AI in shaping the future 🌍.
 
 
-
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif"  width="600" alt="DSA GIF"/>
 </p>
@@ -46,6 +45,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 
 
+<p align="left">
+  <img src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif" width="250" style="border-radius: 80%" ; alt="Circular DSA Gif" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -65,6 +68,15 @@
 - ✔️ Build a strong **software engineering portfolio**
 
 ---
+
+---
+<p align="center">
+  <img src="https://media.tenor.com/YVWE2DLOjM8AAAAM/pinkglock.gif" width="200" alt="Thank You Gif" />
+</p>
+
+<h3 align="center">✨ Thank you for visiting! ✨</h3>
+<p align="center">Feel free to explore and connect 🤝</p>
+
 
 ### 📫 Reach Me At
 
