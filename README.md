@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif"  width="800" alt="DSA GIF"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif"  width="600" alt="DSA GIF"/>
 </p>
 
 ---
